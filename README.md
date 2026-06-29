@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Vercel+Geist&pause=1000&color=FFB5F2&vCenter=true&width=435&lines=Ciallo%EF%BD%9E(%E2%88%A0%E3%83%BB%CF%89%EF%BC%9C)%E2%8C%92%E2%98%86+++)](https://git.io/typing-svg)
 
-I am **Miyuki**, a developer and student from HK 🇭🇰  
+I am **Miyuki**, a developer and student  
 
 ![Visitors](https://komarev.com/ghpvc/?username=YueMiyuki&color=FF73F1&style=for-the-badge&label=VISITORS&abbreviated=true)
 [![Email](https://img.shields.io/badge/hello@mdesk.tech-FF73F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@mdesk.tech)
